@@ -1,7 +1,6 @@
-# Title: COVID19 RNA-seq preprocessing
+# Title: COVID19 RNA-seq preprocessing (Script based on GEO2RNAseq pipeline version R320)
 # Project: Risk assessment with gene expression markers in sepsis development
-# Mantainer: Albert Garcia-Lopez
-# Note: Script based on GEO2RNAseq pipeline version R320
+# Maintainer: Albert Garcia-Lopez
 # Last update: December 6, 2021
 
 # Load libraries ###############################################################
