@@ -1,7 +1,6 @@
-# Title: Preoperative RNA-seq preprocessing
+# Title: Preoperative RNA-seq preprocessing (Script based on GEO2RNAseq pipeline version R320)
 # Project: Risk assessment with gene expression markers in sepsis development
-# Mantainer: Albert Garcia-Lopez
-# Note: Script based on GEO2RNAseq pipeline version R320
+# Maintainer: Albert Garcia-Lopez
 # Last update: July 22, 2020
 
 # Load libraries ###############################################################
